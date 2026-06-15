@@ -1,8 +1,3 @@
-Here is a professional, clean, and well-structured `README.md` layout tailored directly to your website. It clearly explains what your company does, the services you provide, and gives a quick technical overview for anyone browsing your code repository.
-
-You can copy and paste this text directly into your `README.md` file:
-
-```markdown
 # Well Nepal Travel & Treks (www.wellnepaltravel.com)
 
 Welcome to the official repository for **Well Nepal Travel & Treks**. This repository houses the source code, assets, and development files for our official website and Destination Management Company (DMC) platform.
