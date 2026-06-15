@@ -30,12 +30,3 @@ If you are a traveler looking to book a trip, or a business looking to partner w
 ---
 
 *© Well Nepal Travel & Treks Pvt. Ltd. All rights reserved.*
-
-```
-
-### Why this works well for your Git Repo:
-1. **Instantly Informative:** Anyone who lands on your GitHub/GitLab page will immediately know this isn't just a dummy project—it’s a live business asset for a reputable travel agency.
-2. **Clear Architecture:** It separates the *business overview* (crucial for context) from the *technical instructions* (crucial for developers or future collaborators).
-3. **SEO & Link Integrity:** It links directly back to your production site and lists your actual physical address and WhatsApp contact info, keeping everything transparent.
-
-```
