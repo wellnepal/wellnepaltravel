@@ -23,7 +23,7 @@ We specialize in designing and operating premium travel experiences, adventure t
 If you are a traveler looking to book a trip, or a business looking to partner with us, please visit our live website or contact us directly:
 
 * **Official Website:** [www.wellnepaltravel.com](https://www.wellnepaltravel.com)
-* **Email:** wellnepaltravel@gmail.com
+* **Email:** info@wellnepaltravel.com
 * **Phone/WhatsApp:** +977-9851136944
 * **Office Location:** Laxmi Heights, 7th Floor, Lazimpat, Kathmandu 44600, Nepal
 
